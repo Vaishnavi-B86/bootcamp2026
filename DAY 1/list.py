@@ -1,0 +1,10 @@
+list =[1,2,3,5,'i']
+print(list)
+list.append(4)
+print(list)
+list.remove(2)
+print(list)
+list.pop(3)
+print(list)
+list.insert(4,'i')
+print(list)
